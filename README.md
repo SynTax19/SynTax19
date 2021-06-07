@@ -12,5 +12,5 @@
 - ⚡ Fun fact: I do whatever that Excites Me !
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syntax0002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Syntax0002&&show_icons=true&title_color=f5f5f5&icon_color=00ff00&text_color=f5f5f5&bg_color=222222">
 
