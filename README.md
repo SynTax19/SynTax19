@@ -10,5 +10,5 @@
 - ⚡ Fun fact: Its Harder to Read Code than to Write It !
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syntax0002&&show_icons=true&title_color=f5f5f5&icon_color=00ff00&text_color=f5f5f5&bg_color=22222">
+<img src="https://github-readme-stats.vercel.app/api?username=Syntax0002&&show_icons=true&title_color=f5f5f5&icon_color=00ff00&text_color=f5f5f5&bg_color=222222">
 
