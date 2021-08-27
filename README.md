@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently a 2nd YEAR CSE Undergrad at NIT, Jamshedpur .
-- 🌱 I’m currently learning whatever that makes me compatable in the long run.
+- 🌱 I’m currently learning Web Development and Machine Learning.
 - 👯 I’m looking to contribute on various Open Source Projects
 - 📫 How to reach me :   e-mail : suvrodeephalder@gmail.com     linkedin : https://www.linkedin.com/in/suvrodeep-halder-88a1451bb
 - 😄 Pronouns: He/His
