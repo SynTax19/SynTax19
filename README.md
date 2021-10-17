@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/e1000ab8b19bfa53bb783de70925d854bb1e0142f9f8242de4aab94bf53d64ef/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966" width="40px">
 </div>
-<h3 align="center">NNIT Jamshedpur, CSE Department</h3>
+<h3 align="center">NIT Jamshedpur, CSE Department</h3>
 <h3 align="center"><b>Competitive Coder💻 || Web developer<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="40px">|| AI Enthusiast </b></h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syntax0002&label=Profile%20views&color=0e75b6&style=flat" alt="suvrodeep01" /> </p>
