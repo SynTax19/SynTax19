@@ -29,12 +29,12 @@
 <h3 align="centre"> <pre> Connect with me 🤝 </pre></h3>
 <br/>
 <p align="left">
-<a href="https://www.linkedin.com/in/suvrodeep-halder-88a1451bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrodeep01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/syntax_0002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvrodeep01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/syntax0002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suvrodeep01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suvrodeephalder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvrodeep01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/suvro0002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="suvrodeep01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@syntax0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suvrodeep01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suvrodeep-halder-88a1451bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrodeep01" height="40" width="40" /></a>
+<a href="https://www.instagram.com/syntax_0002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvrodeep01" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/syntax0002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suvrodeep01" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/suvrodeephalder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvrodeep01" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/suvro0002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="suvrodeep01" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@syntax0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suvrodeep01" height="40" width="40" /></a>
 
 </p>
 
@@ -67,7 +67,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syntax0002&theme=tokyonight" />
 </p>
 
-<a href="https://github.com/syntax0002/syntax0002"><img alt=" Dipti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syntax0002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/syntax0002/syntax0002"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syntax0002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 
 <h3 align="center">💻" Happy Coding! "🖥️</h3>
