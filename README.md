@@ -76,16 +76,14 @@
 
   <br/>
     <a href="https://github.com/syntax0002/github-readme-stats"><img width="48%" height ="65%" alt="Suvrodeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SynTax19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/syntax0002/github-readme-stats"><img width="48%" height ="35%" alt="Suvrodeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynTax19
-&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/syntax0002/github-readme-stats"><img width="48%" height ="35%" alt="Suvrodeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynTax19&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <!-- <a href="https://github.com/syntax0002/syntax0002"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=syntax0002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
-<a href="https://github.com/SynTax19
-/github-readme-activity-graph"><img alt="Suvrodeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuvrodeepY2K&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SynTax19/github-readme-activity-graph"><img alt="Suvrodeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuvrodeepY2K&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <h3 align="center">💻" Happy Coding! "🖥️</h3>
