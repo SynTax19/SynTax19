@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">"Hello there!!" 👋🏻, Suvrodeep here.</h1>
+<h1 align="center">"Hello there!" 👋🏻, Suvrodeep here.</h1>
 <div align="center">
 <img src="https://camo.githubusercontent.com/e1000ab8b19bfa53bb783de70925d854bb1e0142f9f8242de4aab94bf53d64ef/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30302f34622f31372f30303462313733663665336436383433646631303131346530383766333061382e676966" width="40px">
 </div>
@@ -85,7 +85,7 @@
 
 
 <br/>
-<h3 align="center">💻" Happy Coding! "🖥️</h3>
+<h3 align="center">💻 Happy Coding! 🖥️</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/oFQxwezf5FxiU/giphy.gif" width="80px  height="120px" >
 </div>
